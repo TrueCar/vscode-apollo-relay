@@ -1,7 +1,7 @@
 {
-  "name": "vscode-apollo-relay",
-  "version": "1.5.2",
-  "description": "Simple configuration of vscode-apollo for Relay projects.",
+  "name": "vscode-hestia-relay",
+  "version": "1.5.4",
+  "description": "Fork of vscode-apollo-relay with type param support",
   "keywords": [
     "apollo",
     "graphql",
@@ -10,8 +10,8 @@
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/relay-tools/vscode-apollo-relay",
-  "homepage": "https://github.com/relay-tools/vscode-apollo-relay#readme",
+  "repository": "https://github.com/TrueCar/vscode-apollo-relay",
+  "homepage": "https://github.com/TrueCar/vscode-apollo-relay#readme",
   "author": {
     "name": "Eloy Durán",
     "email": "eloy.de.enige@gmail.com",
